@@ -1,0 +1,10 @@
+﻿Model,CC_Pr,NRMSD_Pr,PBIAS_Pr,CC_Tasmax,NRMSD_Tasmax,PBIAS_Tasmax,CC_Tasmin,NRMSD_Tasmin,PBIAS_Tasmin
+CC_Pr,1,3,6,3,5,2,7,6,2
+NRMSD_Pr,,1,3,2,4,2,5,4,2
+PBIAS_Pr,,,1,0.5,2,1,3,2,1
+CC_Tasmax,,,,1,3,2,4,3,2
+NRMSD_Tasmax,,,,,1,0.5,2,2,1
+PBIAS_Tasmax,,,,,,1,3,2,1
+CC_Tasmin,,,,,,,1,2,1
+NRMSD_Tasmin,,,,,,,,1,0.5
+PBIAS_Tasmin,,,,,,,,,1
